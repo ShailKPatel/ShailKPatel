@@ -48,14 +48,9 @@ I am an engineering student at **LJ University**, currently pursuing a **Bachelo
 - 🤝 **Collaboration**: Actively collaborating with peers and participating in coding events.
 
 ## 🔗 Connect & Collaborate
-- **LinkedIn**: [Shail K. Patel](https://www.linkedin.com/in/shail-k-patel/) – Let's connect professionally!
-- **Twitter**: [@shail_k_patel](https://x.com/shail_k_patel) – Follow my thoughts on tech and innovation.
-- **Alternate GitHub**: [Shail-K-Patel](https://github.com/Shail-K-Patel) – Explore my other projects and collaborations.
-
-## 💡 Fun Facts & Personal Pursuits
-- 👨‍💻 I enjoy diving deep into **machine learning algorithms** and exploring **new libraries**.
-- 🌱 Always eager to learn and keep up with the **latest tech trends**.
-- 🏆 Motivated to contribute to open-source communities and share my learnings.
+- **LinkedIn**: [Shail K. Patel](https://www.linkedin.com/in/shail-k-patel/) – Let’s build meaningful connections and grow together.
+- **Twitter**: [@shail_k_patel](https://x.com/shail_k_patel) – Join me as I share insights on technology, AI, and innovation.
+- **Alternate GitHub**: [Shail-K-Patel](https://github.com/Shail-K-Patel) – My account to share Notes.
 
 ## ✨ Let's Create Something Amazing Together!
 Feel free to explore my repositories, contribute, or reach out for potential collaborations. I’m always open to connecting with like-minded individuals and contributing to groundbreaking projects!
