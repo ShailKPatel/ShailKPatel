@@ -1,7 +1,8 @@
-# 🌟 Welcome to My GitHub Profile! I'm Shail K. Patel
+# 🌟 Welcome to My GitHub Profile! 
+## I'm Shail K. Patel
 
 ## 🚀 About Me
-I am an engineering student at **LJ University**, currently pursuing a **Bachelor of Engineering in AI and Machine Learning** in the Department of Computer Science. With a strong passion for artificial intelligence and machine learning, I am dedicated to expanding my knowledge, building innovative projects, and contributing to impactful solutions.
+Hey there! I’m an engineering student at **LJ University**, currently pursuing a **Bachelor of Engineering in AI and Machine** Learning in the Computer Science Department. I’m passionate about AI, machine learning, and all things tech. I love learning, building cool projects, and finding innovative solutions to real-world problems. Let’s connect and create something amazing together!
 
 ## 🛠️ Technical Skills & Expertise
 
@@ -48,9 +49,9 @@ I am an engineering student at **LJ University**, currently pursuing a **Bachelo
 - 🤝 **Collaboration**: Actively collaborating with peers and participating in coding events.
 
 ## 🔗 Connect & Collaborate
-- **LinkedIn**: [Shail K. Patel](https://www.linkedin.com/in/shail-k-patel/) – Let’s build meaningful connections and grow together.
-- **Twitter**: [@shail_k_patel](https://x.com/shail_k_patel) – Join me as I share insights on technology, AI, and innovation.
-- **Alternate GitHub**: [Shail-K-Patel](https://github.com/Shail-K-Patel) – My account to share Notes.
+[![Alternate GitHub](https://img.shields.io/badge/Alternate%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shail-K-Patel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shail-k-patel/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shail_k_patel)  
 
 ## ✨ Let's Create Something Amazing Together!
 Feel free to explore my repositories, contribute, or reach out for potential collaborations. I’m always open to connecting with like-minded individuals and contributing to groundbreaking projects!
