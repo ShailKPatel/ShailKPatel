@@ -57,4 +57,4 @@ Feel free to explore my repositories, contribute, or reach out for potential col
 
 ---
 
-> "Stay Hungry. Stay Foolish" – Whole Earth Catalog(October 1974)
+> """To get good answers, one must ask better questions."""
