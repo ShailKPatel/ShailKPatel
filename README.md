@@ -50,7 +50,6 @@ Hey there! I’m an engineering student at **LJ University**, currently pursuing
 ## 🔗 Connect & Collaborate
 [![Alternate GitHub](https://img.shields.io/badge/Alternate%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shail-K-Patel)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shail-k-patel/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shail_k_patel)  
 
 ## ✨ Let's Create Something Amazing Together!
 Feel free to explore my repositories, contribute, or reach out for potential collaborations. I’m always open to connecting with like-minded individuals and contributing to groundbreaking projects!
