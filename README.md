@@ -39,9 +39,26 @@ Hey there! I’m an engineering student at **LJ University**, currently pursuing
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-## 📈 GitHub Stats & Activity
-![ShailKPatel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShailKPatel&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShailKPatel&layout=compact&theme=tokyonight)
+## 📈 GitHub Stats & Activity  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShailKPatel&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShailKPatel&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailKPatel&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShailKPatel&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShailKPatel&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShailKPatel&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+</p>
+
 
 📊 **Contribution Highlights**:
 - 🌟 **Commit Frequency**: Regular commits to personal projects, university assignments, and open-source repositories.
