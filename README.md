@@ -1,8 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 
-## I'm Shail K Patel
 
-## 🚀 About Me
-Hey there! I’m an engineering student at **LJ University**, currently pursuing a **Bachelor of Engineering in AI and Machine** Learning in the Computer Science Department. I’m passionate about AI, machine learning, and all things tech. I love learning, building cool projects, and finding innovative solutions to real-world problems. Let’s connect and create something amazing together!
+Hi there hello! I’m Shail K Patel and I am an engineering student at **LJ University**, currently pursuing a **Bachelor of Engineering in AI and Machine Learning**. I’m passionate about AI, machine learning, Data Science and all things tech. I love learning, building cool projects, and finding innovative solutions to real-world problems. Let’s connect and create something amazing together!
 
 ## 🛠️ Technical Skills & Expertise
 
