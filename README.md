@@ -68,18 +68,45 @@ Hi there! 👋 I'm **Shail K Patel**, a passionate engineering student at **LJ U
 
 ---
 
-## 📈 **My GitHub at a Glance**
+Here’s a crazier, more dynamic version of your **📈 My GitHub at a Glance** section. Let's make it pop!
+
+---
+
+## 📈 **GitHub: My Digital Playground!**
+
+💻 **Behold the Code Wizardry!** 🧙‍♂️ Witness the tale of my repositories—where every commit is a spell, and every pull request is a victory shout.
+
+### **Stats That’ll Leave You Speechless!**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShailKPatel&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShailKPatel&theme=tokyonight" />
-</p>  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShailKPatel&show_icons=true&theme=radical&count_private=true" alt="Shail K Patel's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShailKPatel&theme=radical" alt="Shail K Patel's GitHub Streaks" />
+</p>
+
+🎯 **Top-Lang Battle Royale!** 🥊
+**Languages fighting for supremacy—who reigns supreme in my repository arena?**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailKPatel&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailKPatel&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Most Used Languages" />
+</p>
+
+🏆 **Trophies of Triumph!** 🏆
+**Look at my accolades—proof of endless hours of blood, sweat, and caffeine!** ☕️
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShailKPatel&theme=radical&no-frame=true&margin-w=15&row=1" alt="Shail K Patel's GitHub Trophies" />
+</p>
+
+📊 **Graph Your Way to Glory!** 🎨
+**Here lies the vibrant heartbeat of my contribution streaks—thriving and pulsing with creativity!**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShailKPatel&theme=radical&bg_color=0D1117&hide_border=true" alt="Shail K Patel's GitHub Activity Graph" />
 </p>
 
 ---
+
+
 
 ## 🌟 **Let’s Collaborate!**
 
