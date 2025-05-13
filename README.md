@@ -1,124 +1,30 @@
----
+<h1 align="center">Greetings, Wanderer! I'm Shail K Patel</h1>
+<h3 align="center">I'm a humble scholar of machine learning, earnestly endeavouring to unveil its intricate mysteries.</h3>
 
-# 🚀 **Welcome to My Digital Space!**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shailkpatel&label=Profile%20views&color=0e75b6&style=flat" alt="shailkpatel" /> </p>
 
-Hi there! 👋 I'm **Shail K Patel**, a passionate engineering student at **LJ University**, currently pursuing a **Bachelor's in AI and Machine Learning**. My world revolves around creating, experimenting, and bringing ideas to life through **projects that matter**. 🌐 From crafting innovative AI models to building full-stack applications, I’m all about solving real-world problems with cutting-edge technology.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailkpatel" alt="shailkpatel" /></a> </p>
 
----
+- I’m currently working on [PredictGrad](https://github.com/ShailKPatel/PredictGrad)
 
-## 🎯 **My Focus**
+- I’m looking to collaborate on [OscarOrNot](https://github.com/ShailKPatel/OscarOrNot)
 
-🔍 Unlike a single open-source spotlight, my GitHub is your gateway to a portfolio of **diverse and impactful projects**:
+- Portfolio [https://shailkpatel.github.io/](https://shailkpatel.github.io/)
 
-* 🤖 **AI/ML**: Designing predictive models and exploring neural networks.
-* 🌐 **Web Development**: From sleek UIs to robust backends.
-* 📊 **Data Science**: Transforming raw data into actionable insights.
-* 🚀 **Experimentation**: Always on the hunt for the next challenge.
+- Email **shailpatel.connect@gmail.com**
 
----
+- Resume [https://shailkpatel.github.io/assets/pdf/Shail%20Resume.pdf](https://shailkpatel.github.io/assets/pdf/Shail%20Resume.pdf)
 
-## 🛠️ **My Toolkit**
+- ⚡ Fun fact **A group of owls is called a parliament.**
 
-### **Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-
-### **AI/ML & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-FF3D00?style=for-the-badge\&logo=keras\&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E5D9F?style=for-the-badge\&logo=seaborn\&logoColor=white)
-
-### **Web Technologies**
-
-![MERN](https://img.shields.io/badge/MERN-000000?style=for-the-badge\&logo=mongodb\&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### **Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### **Tools & IDEs**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-## 📂 **Featured Projects**
-
-✨ Here's a glimpse into what I’ve been working on:
-
-1. **AI-Powered Resume Analyzer**: Streamlines recruitment by identifying top candidates.
-
-   * *Tech*: Python, TensorFlow, Flask
-   * [View Project ➡️](#)
-
-2. **Real-Time Weather Dashboard**: Interactive data visualization for global weather insights.
-
-   * *Tech*: MERN Stack, API Integration
-   * [View Project ➡️](#)
-
-3. **Stock Price Predictor**: An ML-based approach to financial forecasting.
-
-   * *Tech*: Python, LSTM, Pandas
-   * [View Project ➡️](#)
-
-*Explore more in my repositories!* 🚀
-
----
-
-Here’s a crazier, more dynamic version of your **📈 My GitHub at a Glance** section. Let's make it pop!
-
----
-
-## 📈 **GitHub: My Digital Playground!**
-
-💻 **Behold the Code Wizardry!** 🧙‍♂️ Witness the tale of my repositories—where every commit is a spell, and every pull request is a victory shout.
-
-### **Stats That’ll Leave You Speechless!**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShailKPatel&show_icons=true&theme=radical&count_private=true" alt="Shail K Patel's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShailKPatel&theme=radical" alt="Shail K Patel's GitHub Streaks" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shail-k-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shail-k-patel" height="30" width="40" /></a>
 </p>
 
-🎯 **Top-Lang Battle Royale!** 🥊
-**Languages fighting for supremacy—who reigns supreme in my repository arena?**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailKPatel&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Most Used Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&show_icons=true&locale=en&layout=compact" alt="shailkpatel" /></p>
 
-🏆 **Trophies of Triumph!** 🏆
-**Look at my accolades—proof of endless hours of blood, sweat, and caffeine!** ☕️
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShailKPatel&theme=radical&no-frame=true&margin-w=15&row=1" alt="Shail K Patel's GitHub Trophies" />
-</p>
-
-📊 **Graph Your Way to Glory!** 🎨
-**Here lies the vibrant heartbeat of my contribution streaks—thriving and pulsing with creativity!**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShailKPatel&theme=radical&bg_color=0D1117&hide_border=true" alt="Shail K Patel's GitHub Activity Graph" />
-</p>
-
----
-
-
-
-## 🌟 **Let’s Collaborate!**
-
-Whether it’s about brainstorming, coding, or creating the next big thing, I'm all in!
-
-📌 **Portfolio**: [shailkpatel.github.io](https://shailkpatel.github.io/)
-📧 **Email**: [shailkpatel@example.com](mailto:shailkpatel@example.com)
-🌐 **LinkedIn**: [Shail K Patel](https://www.linkedin.com/in/shail-k-patel/)
-
----
-
-> *"The best way to predict the future is to create it."*
-
-Let’s innovate together! 🚀
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailkpatel&show_icons=true&locale=en" alt="shailkpatel" /></p>
