@@ -56,8 +56,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shailkpatel&show_icons=true&locale=en&theme=transparent&title_color=23a7c2&text_color=ffffff&bg_color=0c0c28" alt="shailkpatel" /></p>
 
 <p>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph (Dark Mode)" src="https://raw.githubusercontent.com/your-username/your-repo/output/pacman-contribution-graph-dark.svg" style="max-width: 100%; height: auto;">
 </p>
 
