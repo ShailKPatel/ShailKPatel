@@ -54,3 +54,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=23a7c2&text_color=ffffff&bg_color=0c0c28" alt="shailkpatel" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shailkpatel&show_icons=true&locale=en&theme=transparent&title_color=23a7c2&text_color=ffffff&bg_color=0c0c28" alt="shailkpatel" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph.svg">
+</picture>
+
+###
