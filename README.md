@@ -7,15 +7,24 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+<div style="max-width: 320px;">
+
+  <div style="margin-bottom: 20px; text-align: left;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 300px; max-width: 100%;" />
+  </div>
+
+  <div style="margin-bottom: 20px; text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 300px; max-width: 100%;" />
+  </div>
+
+  <div style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 300px; max-width: 100%;" />
+  </div>
+
 </div>
 
-  <div style="text-align: center; flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <div style="text-align: center; flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  </div>
+
+
 
 <br>
 
