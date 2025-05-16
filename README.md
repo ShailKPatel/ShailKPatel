@@ -1,7 +1,26 @@
-<h1 align="center">Greetings, Wanderer! I'm Shail K Patel</h1>
-<h3 align="center">I'm a humble scholar of machine learning, earnestly endeavouring to unveil its intricate mysteries.</h3>
+# <h1 align="center">Greetings! I'm Shail K Patel</h1>
+<h3 align="center">I'm but a humble Machine Learning nerd</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shailkpatel&label=Profile%20views&color=23a7c2&style=flat" alt="shailkpatel" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shailkpatel&label=Profile%20views&color=23a7c2&style=for-the-badge" alt="Profile views" />
+</p>
+
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: left; flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  </div>
+  <div style="text-align: right; flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </div>
+</div>
+
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailkpatel&theme=algolia&title_color=23a7c2&text_color=ffffff" alt="shailkpatel" /></a> </p>
 
@@ -51,11 +70,17 @@
 <li><b>Tools and Platforms</b>: Employing Git, Linux, and Arduino, I traverse the technological landscape with versatility and precision.</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=23a7c2&text_color=ffffff&bg_color=0c0c28" alt="shailkpatel" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shailkpatel&show_icons=true&locale=en&theme=transparent&title_color=23a7c2&text_color=ffffff&bg_color=0c0c28" alt="shailkpatel" /></p>
 
 <p>
   <img alt="Pacman Contribution Graph (Dark Mode)" src="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph-dark.svg" style="max-width: 100%; height: auto;">
 </p>
 
+<div align="center" style="background-color: #050515; padding: 20px; border-radius: 10px; border: 1px solid #ffffff; max-width: 500px; margin: 0 auto; font-family: Arial, sans-serif;">
+  <blockquote style="font-size: 1.5em; font-style: italic; color: #FFA500; margin: 0;">
+    "To get good answers, one must ask better questions."
+  </blockquote>
+  <p style="margin-top: 15px; color: #23a7c2; text-align: right; font-size: 0.9em; font-weight: bold;">
+    — Me
+  </p>
+</div>
