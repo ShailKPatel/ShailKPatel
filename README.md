@@ -13,12 +13,13 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="text-align: left; flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 90%; max-width: 350px;" />
   </div>
   <div style="text-align: right; flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 90%; max-width: 250px;" />
   </div>
 </div>
+
 
 <br>
 
@@ -77,6 +78,7 @@
 </p>
 
 <div align="center" style="background-color: #050515; padding: 20px; border-radius: 10px; border: 1px solid #ffffff; max-width: 500px; margin: 0 auto; font-family: Arial, sans-serif;">
+
   <blockquote style="font-size: 1.5em; font-style: italic; color: #FFA500; margin: 0;">
     "To get good answers, one must ask better questions."
   </blockquote>
