@@ -1,18 +1,23 @@
-# <h1 align="center">Greetings! I'm Shail K Patel</h1>
-<h2 align="center">I'm but a humble Machine Learning nerd</h3>
+# <h1 align="center">Hi! I'm Shail K Patel</h1>
+<div style="display: flex; align-items: center;">
+  <img style="float: left; height: 180px; margin-right: 20px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU5YzVsamRncTBxdHRycjcwZTE5OHZnaXU5bXJ6MnVpeXlobTA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Machine Learning GIF">
+  <div style="text-align: right;">
+    <p style="font-size: 18px; font-weight: bold; text-align: left;">I’m a Machine Learning enthusiast with a passion for turning bold ideas into game-changing solutions.</p>
+<p style="text-align: left;">With a flair for unraveling complex challenges, I partner with visionaries to craft innovative AI-driven applications that redefine what’s possible. Let’s join forces and create something truly remarkable that leaves a lasting legacy!</p>
+  </div>
+</div>
+<hr>
 
 <div style="display: flex; justify-content: space-between; align-items: center; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold;">
-  <h4 style="margin: 0;">PROFILE VIEWS</h4>
-  <img src="https://profile-counter.glitch.me/shailkpatel/count.svg?" alt="Profile Views" />
+  PROFILE VIEWS
+<img src="https://profile-counter.glitch.me/shailkpatel/count.svg?" alt="Profile Views" />
 </div>
 
+<hr>
 
-<h2>📊 GitHub Stats:</h2>
-
-    
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU5YzVsamRncTBxdHRycjcwZTE5OHZnaXU5bXJ6MnVpeXlobTA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" />
-
+<div style="display: flex; justify-content: space-between; align-items: center; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold;">
+  GITHUB STATISTICS
+</div>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" height="130" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="languages graph" />
