@@ -8,11 +8,12 @@
 </div>
 <hr>
 
-<div style="display: flex; justify-content: space-between; align-items: center; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; margin: 0; padding: 0;">
-  <span>PROFILE VIEWS</span>
+<div style="display: flex; align-items: center; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; margin: 0; padding: 0;">
+  <span style="flex: 1; text-align: left; margin: 0;">PROFILE VIEWS</span>
   <img src="https://profile-counter.glitch.me/shailkpatel/count.svg?" alt="Profile Views" style="height: 24px; margin: 0;" />
 </div>
 <hr>
+
 
 <div style="font-family: Arial, sans-serif; margin: 0; padding: 0;">
   <div style="font-size: 18px; font-weight: bold; text-align: left; margin-bottom: 10px;">
