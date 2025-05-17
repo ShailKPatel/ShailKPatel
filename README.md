@@ -10,8 +10,7 @@
 
 <div style="display: flex; align-items: center; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; margin: 0; padding: 0;">
   <span style="flex: 1; text-align: left; margin: 0;">PROFILE VIEWS</span>
-  <img src="https://profile-counter.glitch.me/shailkpatel/count.svg?" alt="Profile Views" style="height: 24px; margin: 0;" />
-</div>
+<img src="https://profile-counter.glitch.me/shailkpatel/count.svg?" alt="Profile Views" align="right" style="height: 24px; margin: 0;" /></div>
 <hr>
 
 
