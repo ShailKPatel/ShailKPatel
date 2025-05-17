@@ -1,29 +1,30 @@
 # <h1 align="center">Greetings! I'm Shail K Patel</h1>
 <h2 align="center">I'm but a humble Machine Learning nerd</h3>
 
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="max-width: 50%;">
-    <h2>📊 GitHub Stats:</h2>
-    <div style="margin-bottom: 20px; text-align: left;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 300px; max-width: 100%;" />
-    </div>
-    <div style="margin-bottom: 20px; text-align: left;">
-      <img src="https://github-readme-stats.vercel.app/api?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 300px; max-width: 100%;" />
-    </div>
-    <div style="text-align: left;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 300px; max-width: 100%;" />
-    </div>
-  </div>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU5YzVsamRncTBxdHRycjcwZTE5OHZnaXU5bXJ6MnVpeXlobTA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" style="height: 150px; align-self: center; border: 1px solid;" />
+<div style="display: flex; justify-content: space-between; align-items: center; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold;">
+  <h4 style="margin: 0;">PROFILE VIEWS</h4>
+  <img src="https://profile-counter.glitch.me/shailkpatel/count.svg?" alt="Profile Views" />
 </div>
 
 
+<h2>📊 GitHub Stats:</h2>
+
+    
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU5YzVsamRncTBxdHRycjcwZTE5OHZnaXU5bXJ6MnVpeXlobTA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" />
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" height="130" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="languages graph" />
+</div>
+
+
+###
 
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailkpatel&theme=algolia" alt="shailkpatel" /></a> </p>
+
 
 - I’m currently pursuing [PredictGrad](https://github.com/ShailKPatel/PredictGrad), a model for academic grade prediction.
 - I seek collaboration on [OscarOrNot](https://github.com/ShailKPatel/OscarOrNot), exploring film award predictions.
@@ -32,44 +33,69 @@
 - Resume: [Explore my humble endeavours](https://shailkpatel.github.io/assets/pdf/Shail%20Resume.pdf)
 - Curious note: **A group of owls is called a parliament.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Want to stalk… er, connect with me?</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shail-k-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shail-k-patel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shail-k-patel" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shail-k-patel" height="30" width="40" />
+</a>
+<a href="https://github.com/shail-k-patel" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shail-k-patel" height="30" width="40" />
+</a>
+<a href="https://twitter.com/shailkpatel" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shailkpatel" height="30" width="40" />
+</a>
 </p>
+
 
 <h3 align="left">Primary Skills for Machine Learning:</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" title="Python: My snake-charming superpower! 🐍"/> 
+</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" title="TensorFlow: Where my neurons throw a rave! 🧠"/> 
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" title="PyTorch: Lighting my ML models on fire! 🔥"/> 
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" title="Scikit-learn: My ML Swiss Army knife! 🛠️"/> 
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" title="Pandas: Taming dataframes like a zookeeper! 🐼"/> 
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" title="Seaborn: Making plots prettier than my binary tree! 📊"/> 
+</a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="50" height="50" title="Streamlit: Turning my apps into instant eye candy! 🎉"/> 
+</a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="50" height="50" title="Plotly: Graphs so fancy, they deserve a red carpet! 🌟"/> 
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" title="NumPy: Crunching numbers faster than my coffee machine! ☕"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" title="MongoDB: Where my data chills in JSON paradise! 🍃"/> 
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" title="MySQL: Querying data like a detective! 🕵️"/> 
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" title="PostgreSQL: My data’s favorite elephant ride! 🐘"/> 
+</a>
 </p>
 
 <h3 align="left">Further Proficiencies:</h3>
-<p>I am also versed in sundry arts, humbly pursued to complement my scholarly endeavours:</p>
 <ul>
-<li><b>Web Development</b>: Crafting digital tapestries with HTML, CSS, React, Node.js, Flask, and Tailwind, I weave interfaces of elegant utility.</li>
-<li><b>Databases</b>: Navigating the repositories of knowledge, I wield MongoDB, MySQL, and PostgreSQL to steward data with care.</li>
-<li><b>Programming</b>: With C++, Java, and Bash, I forge robust solutions, each a testament to diligent craftsmanship.</li>
-<li><b>Tools and Platforms</b>: Employing Git, Linux, and Arduino, I traverse the technological landscape with versatility and precision.</li>
+<li><b>Web Development</b>: HTML, CSS, React, Node.js, Flask, Bootstrap and Tailwind</li>
+<li><b>Databases</b>: MongoDB, MySQL, and PostgreSQL</li>
+<li><b>Programming</b>: C++, Java, Git, and Bash</li>
+<li><b>Tools and Platforms</b>: Linux, and Arduino</li>
 </ul>
+
+
 
 
 
