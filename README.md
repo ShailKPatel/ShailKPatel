@@ -1,26 +1,21 @@
 # <h1 align="center">Greetings! I'm Shail K Patel</h1>
-<h3 align="center">I'm but a humble Machine Learning nerd</h3>
+<h2 align="center">I'm but a humble Machine Learning nerd</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shailkpatel&label=Profile%20views&color=23a7c2&style=for-the-badge" alt="Profile views" />
-</p>
 
-## 📊 GitHub Stats:
-
-<div style="max-width: 320px;">
-
-  <div style="margin-bottom: 20px; text-align: left;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 300px; max-width: 100%;" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="max-width: 50%;">
+    <h2>📊 GitHub Stats:</h2>
+    <div style="margin-bottom: 20px; text-align: left;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 300px; max-width: 100%;" />
+    </div>
+    <div style="margin-bottom: 20px; text-align: left;">
+      <img src="https://github-readme-stats.vercel.app/api?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 300px; max-width: 100%;" />
+    </div>
+    <div style="text-align: left;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 300px; max-width: 100%;" />
+    </div>
   </div>
-
-  <div style="margin-bottom: 20px; text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 300px; max-width: 100%;" />
-  </div>
-
-  <div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailkpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 300px; max-width: 100%;" />
-  </div>
-
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU5YzVsamRncTBxdHRycjcwZTE5OHZnaXU5bXJ6MnVpeXlobTA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" style="height: 150px; align-self: center; border: 1px solid;" />
 </div>
 
 
@@ -28,7 +23,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailkpatel&theme=algolia&title_color=23a7c2&text_color=ffffff" alt="shailkpatel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailkpatel&theme=algolia" alt="shailkpatel" /></a> </p>
 
 - I’m currently pursuing [PredictGrad](https://github.com/ShailKPatel/PredictGrad), a model for academic grade prediction.
 - I seek collaboration on [OscarOrNot](https://github.com/ShailKPatel/OscarOrNot), exploring film award predictions.
@@ -81,12 +76,3 @@
 <p>
   <img alt="Pacman Contribution Graph (Dark Mode)" src="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph-dark.svg" style="max-width: 100%; height: auto;">
 </p>
-
-<div align="center" style="background-color: #050515; padding: 20px; border-radius: 10px; border: 1px solid #ffffff; max-width: 500px; margin: 0 auto; font-family: Arial, sans-serif;">
-  <blockquote style="font-size: 1.5em; font-style: italic; color: #FFA500; margin: 0;">
-    "To get good answers, one must ask better questions."
-  </blockquote>
-  <p style="margin-top: 15px; color: #23a7c2; text-align: right; font-size: 0.9em; font-weight: bold;">
-    — Me
-  </p>
-</div>
