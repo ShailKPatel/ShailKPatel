@@ -1,7 +1,7 @@
 # <h1 align="center">Hi! I'm Shail K Patel</h1>
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img style="height: 180px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU5YzVsamRncTBxdHRycjcwZTE5OHZnaXU5bXJ6MnVpeXlobTA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Machine Learning GIF">
-  <div style="text-align: right;">
+  <img style="height: 180px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU5YzVsamRncTBxdHRycjcwZTE5OHZnaXU5bXJ6MnVpeXlobTA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" align="left" alt="Machine Learning GIF">
+  <div align="right">
     <p style="font-size: 18px; font-weight: bold; text-align: left; margin: 0;">I’m a Machine Learning enthusiast with a passion for turning bold ideas into game-changing solutions.</p>
     <p style="text-align: left; margin: 0;">With a flair for unraveling complex challenges, I partner with visionaries to craft innovative AI-driven applications that redefine what’s possible. Let’s join forces and create something truly remarkable that leaves a lasting legacy!</p>
   </div>
@@ -14,17 +14,7 @@
 <hr>
 
 
-<div style="font-family: Arial, sans-serif; margin: 0; padding: 0;">
-  <div style="font-size: 18px; font-weight: bold; text-align: left; margin-bottom: 10px;">
-    GITHUB STATISTICS
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" height="130" alt="GitHub Streak Stats" style="margin: 0;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="languages graph" style="margin: 0;" />
-  </div>
-</div>
 
-###
 
 
 <br>
@@ -100,9 +90,19 @@
 <li><b>Tools and Platforms</b>: Linux, and Arduino</li>
 </ul>
 
+###
+<div style="font-family: Arial, sans-serif; margin: 0; padding: 0;">
+  <div style="font-size: 18px; font-weight: bold; text-align: left; margin-bottom: 10px;">
+    GITHUB STATISTICS
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" height="130" alt="GitHub Streak Stats" style="margin: 0;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="languages graph" style="margin: 0;" />
+  </div>
+</div>
 
-
-
+###
 
 <p>
   <img alt="Pacman Contribution Graph (Dark Mode)" src="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph-dark.svg" style="max-width: 100%; height: auto;">
