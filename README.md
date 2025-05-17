@@ -37,13 +37,13 @@
 <h3 align="left">Want to stalk… er, connect with me?</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shail-k-patel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shail-k-patel" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shail-k-patel" height="50" />
 </a>
 <a href="https://github.com/shail-k-patel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shail-k-patel" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="shail-k-patel" height="45 />
 </a>
 <a href="https://twitter.com/shailkpatel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shailkpatel" height="30" width="40" />
+    <img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0NjcwODEsIm5iZiI6MTc0NzQ2Njc4MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE3VDA3MjYyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3MmNkYzQ3NTg3YzRhNWQ0Yjk4ZTNmMTU1OWVlZjEzNjc2MjI1ZDM4ODBhZDY2Nzk2Y2E2MTJhYjE2ZWUwZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.b68zSsz4exzcGwMMn4JHVaaPQjNVSCvIvomVOonk59o" alt="shailkpatel" height="50" />
 </a>
 </p>
 
