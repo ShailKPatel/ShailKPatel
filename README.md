@@ -90,7 +90,7 @@
 ### FURTHER PROFICIENCIES
 
 <ul>
-<li><b>Web Development</b>: HTML, CSS, React, Node.js, Flask, Bootstrap and Tailwind</li>
+<li><b>Web Development</b>: HTML, CSS, Express.js, React, Node.js, Flask, Bootstrap and Tailwind</li>
 <li><b>Databases</b>: MongoDB, MySQL, and PostgreSQL</li>
 <li><b>Programming</b>: C++, Java, Git, and Bash</li>
 <li><b>Tools and Platforms</b>: Linux, and Arduino</li>
