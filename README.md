@@ -1,22 +1,20 @@
 # <h1 align="center">Hi! I'm Shail K Patel</h1>
 
-<table>
+<table border="0">
   <tr>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU5YzVsamRncTBxdHRycjcwZTE5OHZnaXU5bXJ6MnVpeXlobTA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Machine Learning GIF" align="left" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU5YzVsamRncTBxdHRycjcwZTE5OHZnaXU5bXJ6MnVpeXlobTA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Machine Learning GIF" align="left" />
     </td>
     <td>
-      <p><strong>I’m a Machine Learning enthusiast with a passion for turning bold ideas into game-changing solutions.</strong></p>
-      <p>I thrive on solving complex challenges and collaborating with visionaries to build groundbreaking AI applications. Let’s create something extraordinary together!</p>
+        <p><strong>I’m an engineering student who loves solving real-world problems with machine learning.</strong></p>
+        <p>I’m passionate about using AI to tackle practical challenges and am currently seeking my first internship to kickstart my career. Let’s build something impactful together!</p>
     </td>
   </tr>
 </table>
 
-###
-
 <hr>
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td align="left"><strong>PROFILE VIEWS</strong></td>
     <td align="right"><img src="https://profile-counter.glitch.me/shailkpatel/count.svg?" alt="Profile Views" width="150" /></td>
@@ -26,13 +24,13 @@
 <br>
 
 ### Current Projects
+
 - I’m currently pursuing [PredictGrad](https://github.com/ShailKPatel/PredictGrad), a model for academic grade prediction.
 - I seek collaboration on [OscarOrNot](https://github.com/ShailKPatel/OscarOrNot), exploring film award predictions.
 - Portfolio: [shailkpatel.github.io](https://shailkpatel.github.io/)
 - Email: [Feel free to connect](mailto:shailpatel.connect@gmail.com)
 - Resume: [Explore my humble endeavors](https://shailkpatel.github.io/assets/pdf/Shail%20Resume.pdf)
 - Curious note: **A group of owls is called a parliament.**
-
 
 <h3 align="left">Want to stalk… er, connect with me?</h3>
 <p align="left">
@@ -89,8 +87,8 @@
 
 ###
 
-
 ### FURTHER PROFICIENCIES
+
 <ul>
 <li><b>Web Development</b>: HTML, CSS, React, Node.js, Flask, Bootstrap and Tailwind</li>
 <li><b>Databases</b>: MongoDB, MySQL, and PostgreSQL</li>
