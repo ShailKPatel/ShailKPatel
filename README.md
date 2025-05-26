@@ -103,10 +103,10 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" height="130" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="Languages Graph"/>
+
 </div>
 
 ###
 
 ### COMMIT HEATMAP
-
 <img alt="Pacman Contribution Graph (Dark Mode)" src="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph-dark.svg" style="max-width: 100%; height: auto;">
