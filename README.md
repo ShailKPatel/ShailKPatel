@@ -31,19 +31,20 @@
 - Resume: [Explore my humble endeavors](https://shailkpatel.github.io/assets/pdf/Shail%20Resume.pdf)
 - Curious note: **A group of owls is called a parliament.**
 
-<h3 align="left">Want to stalk… er, connect with me?</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shail-k-patel" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn - shail-k-patel" height="40" />
-</a>
-<a href="https://github.com/shail-k-patel" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub - shail-k-patel" height="40" />
-</a>
-<a href="https://x.com/shailkpatel" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter - shailkpatel" height="40" />
-</a>
+<h3 align="left">/socials → follow()</h3>
 
+<p align="left">
+  <a href="https://linkedin.com/in/shail-k-patel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="25" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/shail-k-patel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="25" style="margin-right: 10px;" />
+  </a>
+  <a href="https://x.com/shailkpatel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="25" style="margin-right: 10px;" />
+  </a>
 </p>
+
 
 <h3 align="left">Primary Skills for Machine Learning:</h3>
 <p align="left">
