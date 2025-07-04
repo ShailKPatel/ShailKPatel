@@ -33,15 +33,16 @@
 
 <h3 align="left">Want to stalk… er, connect with me?</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shail-k-patel" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shail-k-patel" height="50" />
+<a href="https://linkedin.com/in/shail-k-patel" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn - shail-k-patel" height="40" />
 </a>
-<a href="https://github.com/shail-k-patel" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="shail-k-patel" height="45" />
+<a href="https://github.com/shail-k-patel" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub - shail-k-patel" height="40" />
 </a>
-<a href="https://twitter.com/shailkpatel" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="shailkpatel" height="50" />
+<a href="https://x.com/shailkpatel" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter - shailkpatel" height="40" />
 </a>
+
 </p>
 
 <h3 align="left">Primary Skills for Machine Learning:</h3>
