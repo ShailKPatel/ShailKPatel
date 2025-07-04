@@ -25,8 +25,7 @@
 
 ### Current Projects
 
-- I’m currently pursuing [PredictGrad](https://github.com/ShailKPatel/PredictGrad), a model for academic grade prediction.
-- I seek collaboration on [OscarOrNot](https://github.com/ShailKPatel/OscarOrNot), exploring film award predictions.
+- I’m currently working on [Raddiwala](https://github.com/ShailKPatel/Raddiwala), a platform that connects households with nearby scrap collectors through a real-time bidding system.
 - Portfolio: [shailkpatel.github.io](https://shailkpatel.github.io/)
 - Email: [Feel free to connect](mailto:shailpatel.connect@gmail.com)
 - Resume: [Explore my humble endeavors](https://shailkpatel.github.io/assets/pdf/Shail%20Resume.pdf)
