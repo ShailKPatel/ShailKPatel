@@ -14,12 +14,11 @@
 
 <hr>
 
-<table width="100%" border="0">
-  <tr>
-    <td align="left"><strong>PROFILE VIEWS</strong></td>
-    <td align="right"><img src="https://profile-counter.glitch.me/shailkpatel/count.svg?" alt="Profile Views" width="150" /></td>
-  </tr>
-</table>
+<!-- Profile Views Section -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shailkpatel.shailkpatel" alt="Profile Views" style="margin-bottom: 10px;" />
+</div>
+
 <hr>
 <br>
 
@@ -29,7 +28,7 @@
 - Portfolio: [shailkpatel.github.io](https://shailkpatel.github.io/)
 - Email: [Feel free to connect](mailto:shailpatel.connect@gmail.com)
 - Resume: [Explore my humble endeavors](https://shailkpatel.github.io/assets/pdf/Shail%20Resume.pdf)
-- Curious note: **A group of owls is called a parliament.**
+- 🚀 **Open to exciting opportunities in AI/ML and full-stack development—let's create impact together!**
 
 
 <h3 align="left">Want to stalk… er, connect with me?</h3>
@@ -90,26 +89,46 @@
 
 ###
 
-### FURTHER PROFICIENCIES
+### ADVANCED MACHINE LEARNING SKILLS
 
 <ul>
-<li><b>Web Development</b>: HTML, CSS, Express.js, React, Node.js, Flask, Bootstrap and Tailwind</li>
-<li><b>Databases</b>: MongoDB, MySQL, and PostgreSQL</li>
-<li><b>Programming</b>: C++, Java, Git, and Bash</li>
-<li><b>Tools and Platforms</b>: Linux, and Arduino</li>
+<li><b>Deep Learning Frameworks</b>: PyTorch, TensorFlow, Keras</li>
+<li><b>Model Explainability</b>: SHAP, LIME</li>
+<li><b>Classical ML</b>: scikit-learn, XGBoost, LightGBM, CatBoost</li>
+<li><b>Languages</b>: Python, C/C++</li>
+<li><b>Deployment</b>: Streamlit, Flask, FastAPI, Docker</li>
 </ul>
 
 ###
 
-### GITHUB STATISTICS
+### FURTHER PROFICIENCIES
+
+<ul>
+<li><b>Web Development</b>: MERN Stack (MongoDB, Express.js, React, Node.js), Flask, Bootstrap, Tailwind</li>
+<li><b>Databases</b>: MongoDB, MySQL, and PostgreSQL</li>
+<li><b>Programming</b>: C++, Java, Git, and Bash</li>
+<li><b>Tools and Platforms</b>: Linux, Arduino</li>
+</ul>
+
+###
+
+<!-- GITHUB STATISTICS -->
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" height="130" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="130" alt="Languages Graph"/>
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shailkpatel&theme=dark&hide_border=false" height="140" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shailkpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="140" alt="Languages Graph" style="border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,0.3);" />
 </div>
 
 ###
 
 ### COMMIT HEATMAP
 <img alt="Pacman Contribution Graph (Dark Mode)" src="https://raw.githubusercontent.com/shailkpatel/shailkpatel/output/pacman-contribution-graph-dark.svg" style="max-width: 100%; height: auto;">
+
+<!-- Fun Section: Random ML/Programming Joke -->
+<hr>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%232D2D2D&textColor=%23FFFFFF" alt="Random Joke" />
+  <br>
+  <sub>💡 <i>Here's a random programming joke, because I can</i></sub>
+</div>
