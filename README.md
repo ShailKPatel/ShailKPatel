@@ -7,7 +7,7 @@
     </td>
     <td>
         <p><strong>I’m an engineering student who loves solving real-world problems with machine learning.</strong></p>
-        <p>I’m passionate about using AI to tackle practical challenges and am currently seeking my first internship to kickstart my career. Let’s build something impactful together!</p>
+        <p>I’m passionate about using AI to tackle practical challenges and am currently seeking an internship to push my career to stratosphere. Let’s build something impactful together!</p>
     </td>
   </tr>
 </table>
