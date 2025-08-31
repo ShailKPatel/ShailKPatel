@@ -24,11 +24,15 @@
 
 ### Current Projects
 
-- I’m currently working on [Raddiwala](https://github.com/ShailKPatel/Raddiwala), a platform that connects households with nearby scrap collectors through a real-time bidding system.
+- I’m currently working on [TowerOfBabel](https://github.com/ShailKPatel/TowerOfBabel), a platform that connects households with nearby scrap collectors through a real-time bidding system.
 - Portfolio: [shailkpatel.github.io](https://shailkpatel.github.io/)
 - Email: [Feel free to connect](mailto:shailpatel.connect@gmail.com)
 - Resume: [Explore my humble endeavors](https://shailkpatel.github.io/assets/pdf/Shail%20Resume.pdf)
 - 🚀 **Open to exciting opportunities in AI/ML and full-stack development—let's create impact together!**
+
+<hr>
+<br>
+
 
 
 <h3 align="left">Want to stalk… er, connect with me?</h3>
@@ -45,6 +49,10 @@
 </a>
 
 </p>
+
+<hr>
+<br>
+
 
 
 <h3 align="left">Primary Skills for Machine Learning:</h3>
@@ -87,7 +95,11 @@
 </a>
 </p>
 
-###
+
+<hr>
+<br>
+
+
 
 ### ADVANCED MACHINE LEARNING SKILLS
 
@@ -99,7 +111,11 @@
 <li><b>Deployment</b>: Streamlit, Flask, FastAPI, Docker</li>
 </ul>
 
-###
+
+<hr>
+<br>
+
+
 
 ### FURTHER PROFICIENCIES
 
