@@ -18,7 +18,7 @@
 
 ---
 
-Founding ML Engineer at a stealth restaurant tech startup in Seattle. I design and ship production AI systems — RAG pipelines, LLM integrations, backend APIs, and system architecture.
+Founding ML Engineer at RestaurantPilot.ai, a restaurant tech startup in Seattle. I design and ship production AI systems: RAG pipelines, LLM integrations, backend APIs, and system architecture.
 
 ---
 
@@ -54,19 +54,73 @@ Founding ML Engineer at a stealth restaurant tech startup in Seattle. I design a
       <img src="https://img.shields.io/badge/LiteLLM-000000?style=flat-square" height="26" />
     </td>
   </tr>
-  <tr>
-    <td align="center"><b>Product</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/System%20Design-000000?style=flat-square" height="26" />
-      <img src="https://img.shields.io/badge/Product%20Thinking-000000?style=flat-square" height="26" />
-      <img src="https://img.shields.io/badge/Roadmapping-000000?style=flat-square" height="26" />
-      <img src="https://img.shields.io/badge/A%2FB%20Testing-000000?style=flat-square" height="26" />
-      <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-000000?style=flat-square" height="26" />
-    </td>
-  </tr>
 </table>
 
 </div>
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/ShailKPatel/Open-to-work">Open to Work</a></h3>
+
+Self-hosted job search workspace that turns your GitHub history into evidence-backed, tailored LaTeX resumes. Embeddings run locally.
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-000000?style=flat-square&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/LiteLLM-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+
+<a href="https://github.com/ShailKPatel/Open-to-work">Code</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/ShailKPatel/PredictGrad">PredictGrad</a></h3>
+
+Two-stage, leakage-aware ML framework for early academic risk detection. Regression and classification pipelines with SHAP-based explainability across the full student lifecycle.
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
+
+<a href="https://predictgrad.streamlit.app/">Live Demo</a> &nbsp;|&nbsp; <a href="https://doi.org/10.5281/zenodo.19686376">Preprint</a> &nbsp;|&nbsp; <a href="https://github.com/ShailKPatel/PredictGrad">Code</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/ShailKPatel/Regions-Inegales">Régions Inégales</a></h3>
+
+XGBoost analysis of firm-creation rates across 96 French departments, 2012 to 2021, testing necessity against opportunity explanations with SHAP.
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
+
+<a href="https://regions-inegales.streamlit.app/">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/ShailKPatel/Regions-Inegales">Code</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/ShailKPatel/Constitutional-Values">Constitutional Values</a></h3>
+
+NLP clustering of national constitution preambles using semantic embeddings and unsupervised clustering.
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
+
+<a href="https://constitutional-values.streamlit.app/">Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/ShailKPatel/Constitutional-Values">Code</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,40 +143,6 @@ Founding ML Engineer at a stealth restaurant tech startup in Seattle. I design a
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shailkpatel&bg_color=0d1117&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Activity" />
 </div>
-
----
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://predictgrad.streamlit.app/">PredictGrad</a></h3>
-
-Two-stage, leakage-aware ML framework for early academic risk detection. Regression and classification pipelines with SHAP-based explainability across the full student lifecycle.
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
-
-<a href="https://predictgrad.streamlit.app/">Live Demo</a> &nbsp;|&nbsp; <a href="https://doi.org/10.5281/zenodo.19686376">Preprint</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://beyondthemarks.streamlit.app/">Beyond The Marks</a></h3>
-
-Bias detection in student grading using SHAP analysis. Surfaces systemic patterns in academic assessment that aggregate grades obscure.
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
-
-<a href="https://beyondthemarks.streamlit.app/">Live Demo</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
