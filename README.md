@@ -2,7 +2,7 @@
 
 # Shail K Patel
 
-**Founding ML Engineer**
+**AI Engineer. Shipped two production systems before graduating.**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=9CA3AF&center=true&vCenter=true&width=720&lines=Founding+ML+Engineer+%C2%B7+Seattle+Startup;LLMs+%C2%B7+RAG+Pipelines+%C2%B7+LangChain+%C2%B7+LangGraph;AI+systems+that+ship)](https://shailkpatel.github.io/)
 
