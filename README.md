@@ -12,8 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailkpatel)
 [![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailpatel.connect@gmail.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shailkpatel&color=000000&style=flat-square&label=profile+views)](https://github.com/shailkpatel)
-
 </div>
 
 ---
